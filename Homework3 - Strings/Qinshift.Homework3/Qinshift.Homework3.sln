@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qinshift.Strings.Task", "Qinshift.Strings.Task\Qinshift.Strings.Task.csproj", "{AB9F113E-4869-499E-B376-D2263398D1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9F113E-4869-499E-B376-D2263398D1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9F113E-4869-499E-B376-D2263398D1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9F113E-4869-499E-B376-D2263398D1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9F113E-4869-499E-B376-D2263398D1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7042B386-FF7F-4E2F-AACF-6E53904DD34E}
+	EndGlobalSection
+EndGlobal
